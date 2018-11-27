@@ -8,7 +8,8 @@ This library is created in an attempt to fix the location timeout issue on andro
 
 # Installation
 ```bash
-yarn add react-native-geolocation-service
+npm install git+https://github.com/zariweyo/react-native-geolocation-service.git
+react-native link react-native-geolocation-service
 ```
 
 # Setup
